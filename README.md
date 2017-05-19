@@ -2,7 +2,7 @@
 
 ## File description
 #### triggertoolbox.py
-The trigger toolbox Provides functions for detection algorithms. The module is imported by the other programs
+The trigger toolbox provides functions for detection algorithms. The module is imported by the other programs
 #### plotCharacteristcFunction.py 	
 Plots a seismogram and the corresponding characteristic function of the recursive STA/LTA.
 #### plotTrigger.py
