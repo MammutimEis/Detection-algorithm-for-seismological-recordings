@@ -12,4 +12,4 @@ A trigger statistic with synthetic events. Three methods are implemented which a
 #### totalGroundMovement.py 
 The only file which do not import the trigger toolbox. Calculates the total ground movement, applies a recursive STA/LTA trigger to it and provides a trigger statistic as well. The code needs more comments and a better structure
 #### synthetics_network.py
-The file is only used for the generation of synthetic events
+The file is only used to generate synthetic events
